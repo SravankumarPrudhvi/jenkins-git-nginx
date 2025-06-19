@@ -1,4 +1,4 @@
-if you face issue while trasfering from jenkins to ngin the error Host key verification failed.
+if you face issue while trasfering from jenkins to ngin in defferent servers the error Host key verification failed.
 
 The error again is:
 Host key verification failed.
